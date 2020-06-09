@@ -17,4 +17,4 @@ async def on_member_join(member):
 	await member.add_roles(role)
 	await channel.send(f'{member.mention} присоеденился к нам!')
 
-bot.run('NzA5Mzg2ODA0NTgyODA5NjAz.Xt_L9w.ExxVRlqXsKVT12TwpniPh8qn-r4')
+bot.run('TOKEN')
