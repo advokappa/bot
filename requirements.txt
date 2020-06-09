@@ -1,6 +1,5 @@
 aiohttp==3.6.2
 asgiref==3.2.7
-async-timeout==3.0.1
 certifi==2020.4.
 cffi==1.14.0
 chardet==3.0.4
